@@ -1,0 +1,6 @@
+{
+  "name": "Addis Ababa Events",
+  "description": "An event discovery and hosting platform for Addis Ababa where owners can publish events and viewers can search and explore listings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
